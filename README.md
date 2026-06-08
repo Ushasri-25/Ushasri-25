@@ -8,5 +8,6 @@
 
 💬 Ask me about AI, Machine Learning, Data Analytics, Python, SQL, and Power BI.
 
-📫 How to reach me: LinkedIn - linkedin.com/in/kandula-ushasri | Email - [ushasrik025@gmail.com](mailto:ushasrik025@gmail.com)
-
+📫 How to reach me:
+LinkedIn: https://www.linkedin.com/in/kandula-ushasri/
+Email: [ushasrik025@gmail.com](mailto:ushasrik025@gmail.com)

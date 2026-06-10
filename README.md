@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on AI, Machine Learning, Python, Power BI, and SQL projects.<br><br>🌱 I’m currently learning AI and Data Analytics.<br><br>👯 I’m looking to collaborate on AI, Machine Learning, and Data Analytics projects.<br><br>💬 Ask me about AI, Machine Learning, Data Analytics, Python, SQL, and Power BI.<br><br>📫 📫 How to reach me:
+<p align="left">🔭 I’m currently working on AI, Machine Learning, Python, Power BI, and SQL projects.<br><br>🌱 I’m currently learning AI and Data Analytics.<br><br>👯 I’m looking to collaborate on AI, Machine Learning, and Data Analytics projects.<br><br>💬 Ask me about AI, Machine Learning, Data Analytics, Python, SQL, and Power BI.<br><br>📫How to reach me:
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kandula-ushasri/)
 - Email: [ushasrik025@gmail.com](mailto:ushasrik025@gmail.com)

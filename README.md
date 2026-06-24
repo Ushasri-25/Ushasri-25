@@ -1,6 +1,6 @@
 
 
-<h1 align="left">Hey 👋 KANDULA USHASRI</h1>
+<h1 align="left"> KANDULA USHASRI</h1>
 
 ###
 

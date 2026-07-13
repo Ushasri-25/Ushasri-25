@@ -10,11 +10,11 @@
 
 🔹 Passionate about turning data into actionable insights
 
-📫 Reach me at: 
+ Reach me at: 
 
-📧 E-MAIL : [ushasrik025@gmail.com](mailto:ushasrik025@gmail.com)
+ E-MAIL : [ushasrik025@gmail.com](mailto:ushasrik025@gmail.com)
 
-🔗 LinkedIn: https://www.linkedin.com/in/kandula-ushasri/
+ LinkedIn: https://www.linkedin.com/in/kandula-ushasri/
 
 
 

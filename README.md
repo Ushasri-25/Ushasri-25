@@ -1,14 +1,16 @@
-# Hi there , I'm KANDULA USHASRI
+# Hi there, I'm KANDULA USHASRI!
 
-🎓 B.Tech Graduate in Artificial Intelligence & Machine Learning  | Aspiring AI & Data Analyst
+🎓 B.Tech Graduate in Artificial Intelligence & Machine Learning | Aspiring Data Analyst & Software Developer
 
-🔹 Skills: Python | SQL | Machine Learning | Data Analytics | Power BI
+🔹 **Technical Skills:** Python | Java | SQL | Machine Learning | Data Analytics | Power BI | Git | GitHub | Docker | Kubernetes
 
-🔹 Building projects in AI, Machine Learning, and Data Analytics
+🔹 Building projects in Artificial Intelligence, Machine Learning, Data Analytics, and Software Development.
 
-🔹 Interested in Data Science, Business Intelligence, and Predictive Analytics
+🔹 Interested in Data Science, Business Intelligence, Predictive Analytics, and DevOps.
 
-🔹 Passionate about turning data into actionable insights
+🔹 Familiar with Java programming, version control using Git and GitHub, containerization using Docker, and orchestration using Kubernetes.
+
+🔹 Passionate about solving real-world problems through technology and turning data into actionable insights.
 
  Reach me at: 
 
